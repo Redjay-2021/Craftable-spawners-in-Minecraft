@@ -3,18 +3,20 @@ Yo! I'm Redjay and this is a datapack that allows you to craft spawners in Minec
 
 each of the crafting recpies are formated like this
 
+
 i = iron ingot
 x = special item
 
-iii
-ixi
-iii
+
+i i i
+
+i x i
+
+i i i
 
 so here are the spawners and the special item correlated to them
 
-blaze spawner
-
-x = blaze rods
+blaze spawner | x = blaze rods
 
 creeper | x = gunpowder
 
