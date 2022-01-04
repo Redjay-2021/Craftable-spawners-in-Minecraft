@@ -13,31 +13,23 @@ iii
 so here are the spawners and the special item correlated to them
 
 blaze spawner
+
 x = blaze rods
 
-creeper
-x = gunpowder
+creeper | x = gunpowder
 
-wolf
-x = bone
+wolf | x = bone
 
-enderman
-x = ender pearl
+enderman | x = ender pearl
 
-evoker
-x = emerald
+evoker | x = emerald
 
-skeleton
-x = arrow
+skeleton | x = arrow
 
-slime
-x = slime ball
+slime | x = slime ball
 
-spider
-x = spider eye
+spider | x = spider eye
 
-wither skeleton
-x = wither skull
+wither skeleton | x = wither skull
 
-zombie
-x  = rotten flesh
+zombie | x  = rotten flesh
